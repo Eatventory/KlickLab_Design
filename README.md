@@ -1,8 +1,7 @@
 # *KlickLab\_Design*
 
 ## 컨셉
-
-![](https://velog.velcdn.com/images/qnfrma1997/post/a9acf74d-b196-420c-a0d5-541652a53ffb/image.jpg)
+![15_1 - Copy](https://github.com/user-attachments/assets/7d88fb1d-6d1c-49a8-ab12-af34f653056a)
 ![](https://velog.velcdn.com/images/qnfrma1997/post/409d6245-2438-45ba-a6db-6eb1c3f2d75a/image.jpg)
 
 > 수많은 클릭이 얇은 선이 되어 정사각형 안을 질주합니다.<br/>
