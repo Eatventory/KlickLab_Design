@@ -1,15 +1,16 @@
 # *KlickLab\_Design*
 
 ## 컨셉
-![15_1 - Copy](https://github.com/user-attachments/assets/7d88fb1d-6d1c-49a8-ab12-af34f653056a)
-![](https://velog.velcdn.com/images/qnfrma1997/post/409d6245-2438-45ba-a6db-6eb1c3f2d75a/image.jpg)
-
 > 수많은 클릭이 얇은 선이 되어 정사각형 안을 질주합니다.<br/>
 > 모든 궤적은 대각선 끝에서 하나로 수렴하며<br/>
 > ‘K’의 실루엣을 완성하고, 그 초점이 곧 **KlickLab**이 됩니다.
 >
 > 데이터의 흐름이 정확히 우리에게 닿는 순간,
 > **복잡함은 정밀한 통찰로 바뀝니다.**
+
+![15_1 - Copy](https://github.com/user-attachments/assets/7d88fb1d-6d1c-49a8-ab12-af34f653056a)
+![](https://velog.velcdn.com/images/qnfrma1997/post/409d6245-2438-45ba-a6db-6eb1c3f2d75a/image.jpg)
+
 
 ---
 
